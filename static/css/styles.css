@@ -1,0 +1,24 @@
+body {
+    
+    background-image: url("https://i.pinimg.com/originals/c0/0f/d3/c00fd39ba24e45cd16486aaa4957cb90.jpg");
+    text-align: center;
+}
+
+.navbar {
+    background-color: #0f0909;
+    text-align: center;
+}
+
+a {
+    color: #c4dada;
+}
+
+a:hover {
+    color: #461c1c;
+  }
+p {
+    color:#c4dada
+}
+h3 {
+    color:#c4dada;
+}
